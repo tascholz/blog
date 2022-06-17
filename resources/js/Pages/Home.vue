@@ -19,7 +19,8 @@ export default {
  },
  props: {
      'posts': Object,
-     'quote': String
+     'quote': String,
+     'images': Object
  }   
 }
 </script>
